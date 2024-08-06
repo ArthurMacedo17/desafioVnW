@@ -1,0 +1,45 @@
+body {
+  background-color: rgb(211, 83, 83);
+}
+
+img {
+  border-radius: 50%;
+  border: solid white;
+}
+
+h1 {
+  color: white;
+  font-size: xx-large;
+  margin: 20px;
+  padding: 10px;
+}
+
+p {
+  font-size: x-large;
+  margin: 5px;
+  padding: 0px;
+}
+
+a {
+  font-size: large;
+  color: blue;
+}
+
+h2 {
+  color: white;
+}
+
+ol {
+  font-size: larger;
+  margin: 0px;
+}
+
+footer {
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+  background-color: grey;
+  color: black;
+  padding: 20px;
+  text-align: center;
+}/*# sourceMappingURL=style.css.map */
